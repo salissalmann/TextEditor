@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/salissalmann/TextEditor.git/static/css/main.073c9b0a.css",
+    "main.js": "/salissalmann/TextEditor.git/static/js/main.10d0c605.js",
+    "index.html": "/salissalmann/TextEditor.git/index.html",
+    "main.073c9b0a.css.map": "/salissalmann/TextEditor.git/static/css/main.073c9b0a.css.map",
+    "main.10d0c605.js.map": "/salissalmann/TextEditor.git/static/js/main.10d0c605.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.10d0c605.js"
+  ]
+}
